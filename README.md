@@ -10,7 +10,7 @@ Familiarizarse con los comandos básicos de git y con la consola de rails.
 - Para salir de la consola de Rails se debe ejecutar `quit`.
 - La base de datos tiene monstruos y tweets.
 
-## Pasos previos assa
+## Pasos previos
 
 ### Crear cuentas
 1. Crear una cuenta en github si no tienen una [https://github.com/signup](https://github.com/signup)
