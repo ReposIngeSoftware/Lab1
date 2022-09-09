@@ -33,5 +33,6 @@ module Lab1
 
     # Don't generate system test files.
     config.generators.system_tests = nil
+    config.hosts << "3000-tinchoinfo-ingesoftware-0rdepij95r0.ws-us64.gitpod.io"
   end
 end
